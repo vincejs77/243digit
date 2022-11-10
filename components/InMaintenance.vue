@@ -3,6 +3,11 @@
   <div
     class="d_inmaintain w-full h-full flex flex-center justify-center items-center py-24"
   >
+    <div class="bg-d_inmaintain absolute w-full top-0 right-0 left-0 bottom-0"></div>
+    <div
+      class="bg-d_inmaintain__overlay absolute w-full top-0 right-0 left-0 bottom-0"
+    ></div>
+
     <div class="w max-w-lg">
       <div class="flex justify-left items-center space-x-4 w-full">
         <span>

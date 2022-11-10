@@ -9,6 +9,19 @@ body {
   /* font-family: WotfardRegular, system-ui, -apple-system, 'Segoe UI', Roboto,
     Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji' !important; */
 }
+
+.bg-d_inmaintain {
+  background-image: url(./bg/in_maintain.png);
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.bg-d_inmaintain__overlay {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81));
+  z-index: -1;
+}
+
 p {
   @apply text-gray;
 }

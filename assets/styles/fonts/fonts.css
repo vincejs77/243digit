@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'WotfardBold';
+  src: local('WotfardBold'),
+    url(~assets/styles/fonts/Wotfard/Wotfard-Bold.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'WotfardSemiBold';
+  src: local('WotfardSemiBold'),
+    url(~assets/styles/fonts/Wotfard/Wotfard-SemiBold.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'WotfardMedium';
+  src: local('WotfardMedium'),
+    url(~assets/styles/fonts/Wotfard/Wotfard-Medium.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'WotfardRegular';
+  src: local('WotfardRegular'),
+    url(~assets/styles/fonts/Wotfard/Wotfard-Regular.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'WotfardLight';
+  src: local('WotfardLight'),
+    url(~assets/styles/fonts/Wotfard/Wotfard-Light.otf) format('truetype');
+}

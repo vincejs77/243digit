@@ -28,7 +28,8 @@
       <p class="mt-6 sm:mt-12">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident autem cum
         porro, sapiente non, nemo assumenda corrupti unde saepe id quisquam illum est
-        quasi ipsum recusandae necessitatibus, quis nulla eveniet!
+        quasi ipsum recusandae necessitatibus,
+        <span class="text-white">quis nulla eveniet !</span>
       </p>
     </div>
   </div>

@@ -16,21 +16,18 @@
         <span class="block sm:hidden">
           <UtilsLogo :w="30" />
         </span>
-        <span class="ml-4 font-wotfardBold text-2xl mt-2 text-gray"> 243digit </span>
+        <span class="ml-4 font-wotfardBold text-2xl mt-1.5 text-gray"> 243digit </span>
       </div>
       <h1 class="font-wotfardBold text-4xl sm:text-6xl mt-8 sm:mt-16 relative">
         Nous sommes en
-        <span
-          class="text-white relative z-10 after:-rotate-3 after:bg-blue after:opacity-80 after:h-full after:w-full after:absolute after:left-0 after:-z-10"
-          >maintenance</span
-        >
+        <span class="text-white">construction</span>
       </h1>
-      <p class="mt-6 sm:mt-12">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident autem cum
-        porro, sapiente non, nemo assumenda corrupti unde saepe id quisquam illum est
-        quasi ipsum recusandae necessitatibus,
-        <span class="text-white">quis nulla eveniet !</span>
-      </p>
+      <div class="mt-10">
+        <p class="text-lg sm:text-xl mt-6 sm:mt-12">
+          <span class="text-white">Nous travaillons sur notre site web.</span> Vous pouvez
+          vous inscrire à notre liste de diffusion pour etre informer dès le lancement.
+        </p>
+      </div>
     </div>
   </div>
 </template>

@@ -25,3 +25,29 @@ body {
 p {
   @apply text-gray;
 }
+
+.bg__txt_blue {
+  @apply z-10 relative;
+}
+
+.bg__txt_blue:after {
+  content: '';
+  @apply -rotate-3 bg-blue opacity-80 h-full w-full absolute left-0 -z-10;
+}
+
+mark {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  /* background-size: 100% 8px; */
+  background-repeat: no-repeat;
+  /* background-size: 100% 0.3em; */
+  background-position: 0 88%;
+  font-weight: inherit;
+  /* background-image: url(./bg/large-brush-heading.svg); */
+  color: inherit;
+  @apply text-white;
+}
+.mark__txt_blue {
+  @apply bg-gradient-to-r from-green via-green to-green bg-opacity-90;
+}

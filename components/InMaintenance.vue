@@ -22,7 +22,7 @@
       </div>
       <h1 class="font-wotfardBold text-4xl sm:text-6xl mt-8 sm:mt-16 relative">
         Nous sommes en
-        <span class="text-white bg__txt_blue">construction</span>
+        <span class="text-white font-wotfardMedium underline">construction</span>
       </h1>
       <div class="mt-10">
         <p class="text-lg sm:text-xl mt-6 sm:mt-12">
@@ -31,8 +31,24 @@
         </p>
       </div>
 
-      <div class="bg-blackContrast text-white mt-16 rounded-md min-w-full p-8 relative">
-        <span class="font-wotfardBold">1d</span>
+      <div class="relative mt-4 flex justify-center space-x-4">
+        <span class="text-blue underline">contact@243digit.xyz</span
+        ><span class="text-green underline">+243970578507</span>
+      </div>
+
+      <div
+        class="bg-blackContrast bg-opacity-70 backdrop-blur font-wotfardBold text-white text-2xl sm:text-4xl mt-16 rounded-md min-w-full p-8 relative"
+      >
+        <div class="flex justify-center space-x-4">
+          <span class="">01j</span> <span class="text-gray">-</span>
+          <span class="">23h</span> <span class="text-gray">-</span>
+          <span class="">17m</span> <span class="text-gray">-</span>
+          <span class="">43s</span>
+        </div>
+      </div>
+
+      <div class="mt-12 text-base text-gray">
+        <div>© 2022 - <span class="underline font-wotfardSemiBold">243Digit</span></div>
       </div>
     </div>
   </div>

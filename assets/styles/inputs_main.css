@@ -32,7 +32,7 @@ p {
 
 .bg__txt_blue:after {
   content: '';
-  @apply -rotate-3 bg-blue opacity-80 h-full w-full absolute left-0 -z-10;
+  @apply -rotate-3  bg-blue opacity-80 h-full w-full absolute left-0 -z-10;
 }
 
 mark {

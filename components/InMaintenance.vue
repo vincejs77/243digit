@@ -39,7 +39,7 @@
       <div
         class="bg-blackContrast bg-opacity-70 backdrop-blur font-wotfardBold text-white text-2xl sm:text-4xl mt-16 rounded-md min-w-full p-8 relative"
       >
-        <div id="demo" class="flex justify-center space-x-4">
+        <div id="demo" class="flex justify-center space-x-2">
           <span class="">00j</span> <span class="text-gray">-</span>
           <span class="">00h</span> <span class="text-gray">-</span>
           <span class="">00m</span> <span class="text-gray">-</span>

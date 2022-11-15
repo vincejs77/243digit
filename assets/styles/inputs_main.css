@@ -1,13 +1,13 @@
-@import url(./fonts/fonts.css);
+/* @import url(./fonts/fonts.css); */
 
-/* @import url(https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Work+Sans:wght@800;900&display=swap); */
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Work+Sans:wght@800;900&display=swap);
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body {
-  @apply font-wotfardRegular text-white bg-black;
+  @apply font-regular text-white bg-black;
   /* font-family: WotfardRegular, system-ui, -apple-system, 'Segoe UI', Roboto,
     Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji' !important; */
 }

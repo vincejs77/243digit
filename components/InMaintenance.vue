@@ -22,7 +22,7 @@
       </div>
       <h1 class="font-wotfardBold text-4xl sm:text-6xl mt-8 sm:mt-16 relative">
         Nous sommes en
-        <span class="text-white font-wotfardSemiBold underline">construction</span>
+        <span class="text-white font-wotfardMedium underline">construction</span>
       </h1>
       <div class="mt-10">
         <p class="text-lg sm:text-xl mt-6 sm:mt-12">

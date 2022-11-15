@@ -10,11 +10,11 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        wotfardBold: ['Work Sans', '-apple-system', 'sans-serif'],
-        wotfardSemiBold: ['Work Sans', '-apple-system', 'sans-serif'],
-        wotfardMedium: ['Inter', '-apple-system', 'sans-serif'],
-        wotfardRegular: ['Inter', '-apple-system', 'sans-serif'],
-        wotfardLight: ['Inter', '-apple-system', 'sans-serif'],
+        wotfardBold: ['WotfardBold', '-apple-system', 'sans-serif'],
+        wotfardSemiBold: ['WotfardSemiBold', '-apple-system', 'sans-serif'],
+        wotfardMedium: ['WotfardMedium', '-apple-system', 'sans-serif'],
+        wotfardRegular: ['WotfardRegular', '-apple-system', 'sans-serif'],
+        wotfardLight: ['wotfardLight', '-apple-system', 'sans-serif'],
       },
       colors: {
         transparent: 'transparent',

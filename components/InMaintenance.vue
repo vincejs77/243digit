@@ -39,7 +39,7 @@
       <div
         class="bg-blackContrast bg-opacity-70 backdrop-blur font-wotfardBold text-white text-2xl sm:text-4xl mt-16 rounded-md min-w-full p-8 relative"
       >
-        <div id="demo" class="flex justify-center space-x-2">
+        <div id="countdown" class="flex justify-center space-x-2">
           <span class="">00j</span> <span class="text-gray">-</span>
           <span class="">00h</span> <span class="text-gray">-</span>
           <span class="">00m</span> <span class="text-gray">-</span>
@@ -71,7 +71,7 @@ export default defineComponent({
       const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
       const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-      document.getElementById("demo").innerHTML =
+      document.getElementById("countdown").innerHTML =
         "<span>" +
         days +
         "</span> j <span class='text-gray'>-</span> <span>" +

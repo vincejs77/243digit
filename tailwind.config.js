@@ -10,11 +10,11 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        bold: ['Work Sans', '-apple-system', 'sans-serif'],
-        semibold: ['Work Sans', '-apple-system', 'sans-serif'],
-        medium: ['Inter', '-apple-system', 'sans-serif'],
-        regular: ['Inter', '-apple-system', 'sans-serif'],
-        light: ['Inter', '-apple-system', 'sans-serif'],
+        bold: ['Clash Display', '-apple-system', 'sans-serif'],
+        semibold: ['Clash Display', '-apple-system', 'sans-serif'],
+        medium: ['Clash Display', '-apple-system', 'sans-serif'],
+        regular: ['Lato', '-apple-system', 'sans-serif'],
+        light: ['Lato', '-apple-system', 'sans-serif'],
       },
       colors: {
         transparent: 'transparent',

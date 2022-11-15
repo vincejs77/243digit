@@ -20,7 +20,7 @@
         </span>
         <span class="ml-4 font-bold text-xl mt-1.5 text-gray"> 243digit </span>
       </div>
-      <h1 class="font-bold text-4xl sm:text-6xl mt-8 sm:mt-16 relative">
+      <h1 class="tracking-wide font-bold text-4xl sm:text-6xl mt-8 sm:mt-16 relative">
         Nous sommes en
         <span class="text-white font-semibold underline">construction</span>
       </h1>
@@ -39,7 +39,7 @@
       <div
         class="bg-blackContrast bg-opacity-70 backdrop-blur font-bold text-white text-2xl sm:text-4xl mt-16 rounded-md min-w-full p-8 relative"
       >
-        <div id="countdown" class="flex justify-center space-x-2">
+        <div id="countdown" class="tracking-wide flex justify-center space-x-2">
           <span class="">00j</span> <span class="text-gray">-</span>
           <span class="">00h</span> <span class="text-gray">-</span>
           <span class="">00m</span> <span class="text-gray">-</span>

@@ -59,7 +59,7 @@ import { defineComponent } from "@vue/composition-api";
 
 export default defineComponent({
   beforeMount() {
-    const countDownDate = new Date("Jan 01, 2023 00:00:00").getTime();
+    const countDownDate = new Date("Jan 31, 2023 00:00:00").getTime();
 
     const x = setInterval(function () {
       const now = new Date().getTime();

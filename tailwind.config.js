@@ -13,8 +13,8 @@ module.exports = {
         bold: ['Clash Display', '-apple-system', 'sans-serif'],
         semibold: ['Clash Display', '-apple-system', 'sans-serif'],
         medium: ['Clash Display', '-apple-system', 'sans-serif'],
-        regular: ['Lato', '-apple-system', 'sans-serif'],
-        light: ['Lato', '-apple-system', 'sans-serif'],
+        regular: ['Archivo', '-apple-system', 'sans-serif'],
+        light: ['Archivo', '-apple-system', 'sans-serif'],
       },
       colors: {
         transparent: 'transparent',
